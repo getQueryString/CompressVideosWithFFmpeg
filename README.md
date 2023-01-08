@@ -20,6 +20,8 @@ Programms umgeleitet werden soll. Die Standardfehlerausgabe von ffmpeg enthält 
 oder Problemen, die bei der Komprimierung auftreten. Sie können diese Informationen dann mithilfe von **print**
 anzeigen.
 
+---
+
 ### Hier ist eine Erklärung der Argumente, die an ffmpeg übergeben werden:
 
 - **-i**: Dieses Argument gibt den Pfad zum Eingabevideo an.
