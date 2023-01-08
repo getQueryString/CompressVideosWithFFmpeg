@@ -25,7 +25,7 @@ anzeigen.
 ### Hier ist eine Erklärung der Argumente, die an ffmpeg übergeben werden:
 
 - **-i**: Dieses Argument gibt den Pfad zum Eingabevideo an.
-- input_path: Dies ist der Pfad zum Eingabevideo.
+- **input_path**: Dies ist der Pfad zum Eingabevideo.
 - **-c:v**: Dieses Argument gibt den Video-Codec an, der für die Ausgabe verwendet werden soll. In diesem Fall wird der
   H.264-Codec verwendet.
 - **libx264**: Dies ist der Name des H.264-Codecs.
