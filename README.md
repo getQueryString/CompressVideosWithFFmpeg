@@ -19,7 +19,6 @@ Die Option **stderr=subprocess.STDOUT** gibt an, dass die Standardfehlerausgabe 
 Programms umgeleitet werden soll. Die Standardfehlerausgabe von ffmpeg enthält möglicherweise Informationen zu Fehlern
 oder Problemen, die bei der Komprimierung auftreten. Sie können diese Informationen dann mithilfe von **print**
 anzeigen.
----
 
 ### Hier ist eine Erklärung der Argumente, die an ffmpeg übergeben werden:
 
